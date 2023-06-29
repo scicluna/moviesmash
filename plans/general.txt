@@ -1,0 +1,8 @@
+Basically movie mash only good. 
+We're going to use the open movie api to do this.
+
+Goal: Default to "hot movies" page which is a gallery of new movies 
+User Profile -> Dashboard page that (if logged in) shows movies you've seen and want to see
+Search -> Searchbar at the top that lets you search out movies and leads to a "search" page that spams out info about the movie
+Both search and hot movies lead to a "movies" page, which if you are logged in you can add to your seen or want to see list.
+
